@@ -4,7 +4,7 @@
 // Github version available here: https://github.com/coderpd/cpp-cheatsheet
 
 // # C++ QUICK REFERENCE / C++ CHEATSHEET
-// Based on <a href="http://www.pa.msu.edu/~duxbury/courses/phy480/Cpp_refcard.pdf">Phillip M. Duxbury's C++ Cheatsheet</a> and edited by Morten Nobel-Jørgensen.
+// Based on <a href="http://www.pa.msu.edu/~duxbury/courses/phy480/Cpp_refcard.pdf">Phillip M. Duxbury's C++ Cheatsheet</a>.
 // The cheatsheet focus is both on the language as well as common classes from the standard library.
 // C++11 additions is inspired by <a href="https://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov">ISOCPP.org C++11 Cheatsheet</a>).
 //
