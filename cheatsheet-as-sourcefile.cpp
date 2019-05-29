@@ -1,7 +1,7 @@
 // This is a source version of the cpp cheatsheet available here. Note that this does not compile but may have better
 // color-highlight than the markdown version in an editor.
 //
-// Github version available here: https://github.com/mortennobel/cpp-cheatsheet
+// Github version available here: https://github.com/coderpd/cpp-cheatsheet
 
 // # C++ QUICK REFERENCE / C++ CHEATSHEET
 // Based on <a href="http://www.pa.msu.edu/~duxbury/courses/phy480/Cpp_refcard.pdf">Phillip M. Duxbury's C++ Cheatsheet</a> and edited by Morten Nobel-Jørgensen.
@@ -10,7 +10,7 @@
 //
 // The goal is to give a concise overview of basic, modern C++ (C++14).
 //
-// The document is hosted on https://github.com/mortennobel/cpp-cheatsheet. Any comments and feedback are appreciated.
+// The document is hosted on https://github.com/coderpd/cpp-cheatsheet. Any comments and feedback are appreciated.
 
 // ## Preprocessor
 
